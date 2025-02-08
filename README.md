@@ -1,11 +1,11 @@
 
 
-# <a href="https://andycao1125.github.io/mamba_policy/">Mamba Policy</a>
+# <a href="https://andycao1125.github.io/mamba_policy/"><img src="mamba-policy-logo.svg" alt="Mamba Logo" style="vertical-align: middle; width: 60px; height: auto;">Mamba Policy</a>
 
 <a href="https://andycao1125.github.io/mamba_policy/"><strong>Project Page</strong></a>
   |
   <a href="https://arxiv.org/pdf/2409.07163"><strong>arXiv</strong></a>
-  |
+
 
   <a>Jiahang Cao*</a>, 
   <a>Qiang Zhang*</a>, 
@@ -22,9 +22,9 @@
 
 
 
-<!-- <div align="center">
+<div align="center">
   <img src="main.png" alt="dp3" width="100%">
-</div> -->
+</div>
 
 **Mamba Policy**, a lighter yet stronger
 policy method based on a hybrid state space model
@@ -33,6 +33,7 @@ Policy achieves up to a 5% improvement in success rate
 under a variety of manipulation datasets, while reducing
 the parameter count by 80%.
 
+---
 **Note**: This repository as well as the following guidelines are based on [3D Diffusion Policy](https://github.com/YanjieZe/3D-Diffusion-Policy), thanks for the authors' open resoure which greatly contributes to the community.
 
 
