@@ -20,6 +20,7 @@
   <a>Yijie Guo</a>, 
   <a>Renjing Xu</a>
 
+  *HKUSTGZ, HKUST, Beijing Innovation Center of Humanoid Robotics, ZJU*
 
 
 <div align="center">
