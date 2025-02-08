@@ -1,6 +1,6 @@
 
 
-# <a href="https://andycao1125.github.io/mamba_policy/"><img src="mamba-policy-logo.svg" alt="Mamba Logo" style="vertical-align: middle; width: 60px; height: auto;">Mamba Policy</a>
+# <a href="https://andycao1125.github.io/mamba_policy/">Mamba Policy</a>
 
 <a href="https://andycao1125.github.io/mamba_policy/"><strong>Project Page</strong></a>
   |
