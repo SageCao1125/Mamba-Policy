@@ -22,7 +22,7 @@
 
   *HKUSTGZ, HKUST, Beijing Innovation Center of Humanoid Robotics, ZJU*
   
-  **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025** 🌟
+
 
 <div align="center">
   <img src="main.png" alt="dp3" width="100%">
@@ -142,10 +142,6 @@ Variants of Mamba, such as Mamba2 and Hydra, exhibit longer initial load times a
 
 
 Therefore, scaling up the Mamba model size (e.g., by extending the sequence length) is a promising approach to reduce overhead and improve efficiency, making it a viable direction for future research.
-
-# 🤖 Real Robot
-
-**TBD**
 
 
 # 😺 Acknowledgement
