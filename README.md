@@ -21,7 +21,8 @@
   <a>Renjing Xu</a>
 
   *HKUSTGZ, HKUST, Beijing Innovation Center of Humanoid Robotics, ZJU*
-
+  
+  🌟**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025**
 
 <div align="center">
   <img src="main.png" alt="dp3" width="100%">
@@ -36,8 +37,6 @@ the parameter count by 80%.
 
 ---
 **Note**: This repository as well as the following guidelines are based on [3D Diffusion Policy](https://github.com/YanjieZe/3D-Diffusion-Policy), thanks for the authors' open resoure which greatly contributes to the community.
-
-
 
 <!-- # 📊 Benchmark of DP3
 
