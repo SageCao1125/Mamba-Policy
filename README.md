@@ -22,7 +22,7 @@
 
   *HKUSTGZ, HKUST, Beijing Innovation Center of Humanoid Robotics, ZJU*
   
-  🌟**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025**
+  **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025** 🌟
 
 <div align="center">
   <img src="main.png" alt="dp3" width="100%">
