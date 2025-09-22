@@ -1,8 +1,8 @@
 
 
-# <a href="https://andycao1125.github.io/mamba_policy/">Mamba Policy</a>
+# <a href="https://sagecao1125.github.io/mamba_policy/">Mamba Policy</a>
 
-<a href="https://andycao1125.github.io/mamba_policy/"><strong>Project Page</strong></a>
+<a href="https://sagecao1125.github.io/mamba_policy/"><strong>Project Page</strong></a>
   |
   <a href="https://arxiv.org/pdf/2409.07163"><strong>arXiv</strong></a>
 
