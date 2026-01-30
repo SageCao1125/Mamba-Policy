@@ -6,21 +6,6 @@
   |
   <a href="https://arxiv.org/pdf/2409.07163"><strong>arXiv</strong></a>
 
-
-  <a>Jiahang Cao*</a>, 
-  <a>Qiang Zhang*</a>, 
-  <a>Jingkai Sun</a>, 
-  <a>Jiaxu Wang</a>, 
-  <a>Hao Cheng</a>, 
-  <a>Yulin Li</a>,
-  <a>Jun Ma</a>, 
-  <a>Yecheng Shao</a>, 
-  <a>Wen Zhao</a>, 
-  <a>Gang Han</a>, 
-  <a>Yijie Guo</a>, 
-  <a>Renjing Xu</a>
-
-  *HKUSTGZ, HKUST, Beijing Innovation Center of Humanoid Robotics, ZJU*
   
   **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025** 🌟
 
